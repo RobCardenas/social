@@ -25,3 +25,5 @@ production:
   encoding: unicode
   database: social_production
   pool: 5
+  username: ubuntu
+  password:
